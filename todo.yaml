@@ -1,7 +1,5 @@
 next_id: 7
-todo:
-  - id: 6
-    title: Add macOS and Windows support for notifications when focus timers complete
+todo: []
 done:
   - id: 5
     title: Create focus timer
