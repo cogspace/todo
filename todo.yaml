@@ -1,7 +1,9 @@
-next_id: 6
+next_id: 7
 todo:
   - id: 5
     title: Create focus timer
+  - id: 6
+    title: Add macOS and Windows support for notifications when focus timers complete
 done:
   - id: 1
     title: Create a cool new todo app
