@@ -4,12 +4,4 @@ todo:
     title: Create focus timer
   - id: 6
     title: Add macOS and Windows support for notifications when focus timers complete
-done:
-  - id: 1
-    title: Create a cool new todo app
-  - id: 2
-    title: Make the new todo app use a YAML format
-  - id: 3
-    title: Change IDs to be persistent
-  - id: 4
-    title: "Change format to {id, title}"
+done: []
