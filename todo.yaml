@@ -1,5 +1,5 @@
 todo:
-  - test item
   - another test item
   - this one has no quotes
-done: []
+done:
+  - test item
