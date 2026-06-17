@@ -1,7 +1,5 @@
 next_id: 5
-todo:
-  - id: 4
-    title: "Change format to {id, title}"
+todo: []
 done:
   - id: 1
     title: Create a cool new todo app
@@ -9,3 +7,5 @@ done:
     title: Make the new todo app use a YAML format
   - id: 3
     title: Change IDs to be persistent
+  - id: 4
+    title: "Change format to {id, title}"
