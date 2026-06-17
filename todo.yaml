@@ -1,5 +1,7 @@
-next_id: 7
-todo: []
+next_id: 8
+todo:
+  - id: 7
+    title: '#aurolla Switch from <style> to inline styles for compat'
 done:
   - id: 5
     title: Create focus timer
