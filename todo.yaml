@@ -1,7 +1,5 @@
 next_id: 11
-todo:
-  - id: 10
-    title: 'Set up #aurolla hosted online somewhere (Gather?)'
+todo: []
 done:
   - id: 5
     title: Create focus timer
@@ -11,3 +9,5 @@ done:
     title: '#aurolla Support rolling additional dice one by one after the initial roll to handle buying dice with CP'
   - id: 9
     title: 'Rebuild #aurolla the way it should have been in the first place (React)'
+  - id: 10
+    title: 'Set up #aurolla hosted online somewhere (Gather?)'
