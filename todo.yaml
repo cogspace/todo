@@ -1,9 +1,9 @@
 next_id: 9
-todo:
-  - id: 8
-    title: '#aurolla Support rolling additional dice one by one after the initial roll to handle buying dice with CP'
+todo: []
 done:
   - id: 5
     title: Create focus timer
   - id: 7
     title: '#aurolla Switch from <style> to inline styles for compat'
+  - id: 8
+    title: '#aurolla Support rolling additional dice one by one after the initial roll to handle buying dice with CP'
