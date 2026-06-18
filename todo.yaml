@@ -1,7 +1,9 @@
-next_id: 10
+next_id: 11
 todo:
   - id: 9
     title: 'Rebuild #aurolla the way it should have been in the first place (React)'
+  - id: 10
+    title: 'Set up #aurolla hosted online somewhere (Gather?)'
 done:
   - id: 5
     title: Create focus timer
