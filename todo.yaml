@@ -1,5 +1,7 @@
-next_id: 11
-todo: []
+next_id: 12
+todo:
+  - id: 11
+    title: example
 done:
   - id: 5
     title: Create focus timer
