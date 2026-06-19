@@ -1,5 +1,7 @@
-next_id: 17
-todo: []
+next_id: 18
+todo:
+  - id: 17
+    title: todo
 done:
   - id: 16
     title: test
