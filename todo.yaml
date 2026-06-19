@@ -1,8 +1,8 @@
 next_id: 20
-todo:
-  - id: 18
-    title: +gather Integrate AI token generation
+todo: []
 done:
   - id: 19
     title: '+ube Add highlighting for +projects and @assignees and #tags'
-doing: []
+doing:
+  - id: 18
+    title: +gather Integrate AI token generation
