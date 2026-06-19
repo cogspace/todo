@@ -1,8 +1,4 @@
 next_id: 18
 todo: []
-done:
-  - id: 16
-    title: test
-  - id: 17
-    title: todo
+done: []
 doing: []
