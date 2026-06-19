@@ -1,7 +1,5 @@
 next_id: 16
 todo:
-  - id: 12
-    title: Add `ube start [ID]` command
   - id: 15
     title: test
 done:
@@ -9,4 +7,6 @@ done:
     title: Add `ube doing` command that lists in-progress tasks
   - id: 14
     title: +ube Add "Doing" category between "Todo" and "Done"
+  - id: 12
+    title: Add `ube start [ID]` command
 doing: []
