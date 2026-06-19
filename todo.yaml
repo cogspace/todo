@@ -1,7 +1,5 @@
 next_id: 16
-todo:
-  - id: 15
-    title: test
+todo: []
 done:
   - id: 13
     title: Add `ube doing` command that lists in-progress tasks
