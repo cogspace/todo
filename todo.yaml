@@ -7,6 +7,6 @@ todo:
 done:
   - id: 13
     title: Add `ube doing` command that lists in-progress tasks
-doing:
   - id: 14
     title: +ube Add "Doing" category between "Todo" and "Done"
+doing: []
