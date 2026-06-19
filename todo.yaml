@@ -1,7 +1,9 @@
-next_id: 13
+next_id: 14
 todo:
   - id: 12
     title: Add `ube start [ID]` command
+  - id: 13
+    title: Add `ube doing` command that lists in-progress tasks
 done:
   - id: 5
     title: Create focus timer
