@@ -6,19 +6,7 @@ todo:
     title: Add `ube doing` command that lists in-progress tasks
   - id: 15
     title: test
-done:
-  - id: 5
-    title: Create focus timer
-  - id: 7
-    title: '#aurolla Switch from <style> to inline styles for compat'
-  - id: 8
-    title: '#aurolla Support rolling additional dice one by one after the initial roll to handle buying dice with CP'
-  - id: 9
-    title: 'Rebuild #aurolla the way it should have been in the first place (React)'
-  - id: 10
-    title: 'Set up #aurolla hosted online somewhere (Gather?)'
-  - id: 11
-    title: example
+done: []
 doing:
   - id: 14
     title: +ube Add "Doing" category between "Todo" and "Done"
