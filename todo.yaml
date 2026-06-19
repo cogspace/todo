@@ -4,8 +4,6 @@ todo:
     title: Add `ube start [ID]` command
   - id: 13
     title: Add `ube doing` command that lists in-progress tasks
-  - id: 14
-    title: +ube Add "Doing" category between "Todo" and "Done"
 done:
   - id: 5
     title: Create focus timer
@@ -19,4 +17,6 @@ done:
     title: 'Set up #aurolla hosted online somewhere (Gather?)'
   - id: 11
     title: example
-doing: []
+doing:
+  - id: 14
+    title: +ube Add "Doing" category between "Todo" and "Done"
