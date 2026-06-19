@@ -1,5 +1,7 @@
-next_id: 12
-todo: []
+next_id: 13
+todo:
+  - id: 12
+    title: Add `ube start [ID]` command
 done:
   - id: 5
     title: Create focus timer
@@ -13,3 +15,4 @@ done:
     title: 'Set up #aurolla hosted online somewhere (Gather?)'
   - id: 11
     title: example
+doing: []
