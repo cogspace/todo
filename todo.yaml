@@ -1,6 +1,6 @@
 next_id: 17
-todo:
+todo: []
+done: []
+doing:
   - id: 16
     title: test
-done: []
-doing: []
