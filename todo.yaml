@@ -2,11 +2,11 @@ next_id: 23
 todo:
   - id: 20
     title: '#gaming Play Meccha Chameleon with actual friends'
-  - id: 22
-    title: '#coding Create an end-to-end encrypted chat program for funsies'
   - id: 21
     title: '#gaming Play something with Dan'
 done:
   - id: 19
     title: '+ube Add highlighting for +projects and @assignees and #tags'
-doing: []
+doing:
+  - id: 22
+    title: '#coding Create an end-to-end encrypted chat program for funsies'
