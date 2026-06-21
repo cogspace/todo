@@ -9,6 +9,4 @@ todo:
 done:
   - id: 19
     title: '+ube Add highlighting for +projects and @assignees and #tags'
-doing:
-  - id: 18
-    title: +gather Integrate AI token generation
+doing: []
