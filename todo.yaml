@@ -6,7 +6,5 @@ todo:
     title: '#gaming Play something with Dan'
   - id: 22
     title: '#coding Create an end-to-end encrypted chat program for funsies'
-done:
-  - id: 19
-    title: '+ube Add highlighting for +projects and @assignees and #tags'
+done: []
 doing: []
